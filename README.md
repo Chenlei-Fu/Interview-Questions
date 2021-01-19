@@ -13,6 +13,7 @@ Your Cheat Sheet for SWE Interview
 * Programming Languages
   * [Java](java/README.md)
     * [OOP](java/OOP.md)
+    * [Basic](java/Basic.md)
   * [C++](C++/README.md)
     * [Pointer](C++/Pointer.md)
   * [JavaScript](JavaScript/README.md)
